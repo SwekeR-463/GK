@@ -9,4 +9,5 @@ This repository contains a collection of general kernels commonly used in model 
 
 ##  Future Work
 - [ ] Training GPT using these Kernels
+- [ ] add torch.autograd.function to the kernels to make them trainable
 - [ ] Adding Tilelang Kernels
