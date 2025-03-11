@@ -5,6 +5,8 @@ This repository contains a collection of general kernels commonly used in model 
 ##  Contents
 
 - **Softmax**: Efficient softmax implementation for probability distribution.
+- **Activation Functions**: Implementation of GeLU & SiLU
+- **Matrix Multiplication**: Implementation of Naive & Better Grouped Gemm Matrix Multiplication
 - **Rotary Position Embeddings (RoPE)**: Implementation of RoPE for positional encoding.
 
 ##  Future Work
